@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newBold"
+			],
+			[
+				"bo",
+				"boldness"
+			],
+			[
+				"bold",
+				"newBold"
+			],
+			[
+				"to",
+				"todoItems"
+			],
+			[
+				"add",
+				"addNewItem"
+			],
+			[
+				"a",
+				"addNewItem"
+			],
+			[
+				"item",
+				"itemText"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"con",
+				"con	consolelog"
+			],
+			[
+				"div",
+				"divClick"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"text",
+				"textValue"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"s",
+				"startingDirection"
+			],
+			[
+				"car",
+				"car_direction"
+			],
+			[
+				"pers",
+				"person_at"
+			],
+			[
+				"er",
+				"errorBox"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"p",
+				"people"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"c",
+				"car_at"
+			],
+			[
+				"person",
+				"person_at"
+			],
+			[
+				"per",
+				"person_request"
+			],
+			[
+				"up",
+				"Up"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"Snippet: ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippe",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jav	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/danhogan/.config/sublime-text-3/Packages/User/consolelog.sublime-snippet",
+		"/home/danhogan/Dropbox/cart/main.js",
+		"/home/danhogan/Dropbox/cart/index.html",
+		"/home/danhogan/Dropbox/todoList-JQuery/jquery-1.11.0.min.js",
+		"/home/danhogan/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/danhogan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/danhogan/.config/sublime-text-3/Packages/User/jQuery.sublime-snippet",
+		"/home/danhogan/.config/sublime-text-3/Packages/User/hellosnippet.sublime-snippet",
+		"/home/danhogan/Dropbox/todoList-JQuery/todoListJQuery.html",
+		"/home/danhogan/Dropbox/todolist.html",
+		"/home/danhogan/Dropbox/May-2-Forms/forms.html",
+		"/home/danhogan/Desktop/Forms/index.html",
+		"/home/danhogan/Dropbox/May-1-Styles/index.html",
+		"/home/danhogan/Dropbox/May-1-Styles/styles.css",
+		"/home/danhogan/Desktop/Forms/forms.sublime-project",
+		"/home/danhogan/Desktop/Forms/forms",
+		"/home/danhogan/Dropbox/js-practice1/solver.js",
+		"/home/danhogan/Dropbox/js-practice1/practice.js",
+		"/home/danhogan/Dropbox/js-practice1/practice.html",
+		"/home/danhogan/Dropbox/js-practice1/practice.css",
+		"/home/danhogan/Dropbox/Thursday/styles.css",
+		"/home/danhogan/Dropbox/Thursday/index.html",
+		"/home/danhogan/Dropbox/junk/Wednesday.css",
+		"/home/danhogan/Dropbox/junk/wednesdayMorning.html",
+		"/home/danhogan/Dropbox/Elevator-Part-1-master/index.html",
+		"/home/danhogan/Dropbox/Boxes/boxstyles.css",
+		"/home/danhogan/Dropbox/Boxes/boxes.html",
+		"/home/danhogan/Dropbox/newelevator.html",
+		"/home/danhogan/Dropbox/Boxes/untitled.html",
+		"/home/danhogan/Dropbox/HighQualityRoutines.js",
+		"/home/danhogan/Dropbox/car.html",
+		"/home/danhogan/Dropbox/trycatchfun.html",
+		"/home/danhogan/Dropbox/TearableCloth/Tearable-Cloth-master/index.html",
+		"/home/danhogan/.config/sublime-text-3/Packages/User/rant.sublime-snippet",
+		"/home/danhogan/Dropbox/Friday/yipee.js",
+		"/home/danhogan/Dropbox/Friday/noway.css",
+		"/home/danhogan/Dropbox/Friday/woohoo.html",
+		"/home/danhogan/Dropbox/Friday/madness.html",
+		"/home/danhogan/Dropbox/Thursday/jsparty.html",
+		"/home/danhogan/Dropbox/Friday/madness.js",
+		"/home/danhogan/Dropbox/Friday/madness.css",
+		"/home/danhogan/my-first-design/index.html",
+		"/home/danhogan/Thursday/index.html",
+		"/home/danhogan/Thursday/jsparty.html",
+		"/home/danhogan/Elevator-Part-1-master/index.html",
+		"/home/danhogan/Elevator-Part-1-master/README.md",
+		"/home/danhogan/my-first-design/setup.css",
+		"/home/danhogan/Thursday/llamas.js",
+		"/home/danhogan/Thursday/styles.css",
+		"/home/danhogan/story/index.html",
+		"/home/danhogan/junk/wednesdayMorning.html",
+		"/home/danhogan/junk/Wednesday.css",
+		"/home/danhogan/junk/mondayMorning.html",
+		"/home/danhogan/story/styles.css",
+		"/home/danhogan/story/run.html",
+		"/home/danhogan/story/be.html",
+		"/home/danhogan/story/oppoNothing.html",
+		"/home/danhogan/story/somethingDone.html",
+		"/home/danhogan/story/nothingDone.html",
+		"/home/danhogan/story/beingNothing.html",
+		"/home/danhogan/junk/styles.css",
+		"/home/danhogan/junk/family.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bold",
+			"Add",
+			"\">",
+			"add",
+			"createElement",
+			"btn",
+			"body",
+			"div",
+			"/div",
+			"<b>bold</b>\n		<b>bold</b>",
+			"bold"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"forms.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/absolute-positioning/absolute-positioning.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

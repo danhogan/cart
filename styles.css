@@ -1,0 +1,68 @@
+/* Kuler colors - ligtest to darkest
+- FF3B20
+- E5351D
+- BF2C18
+- 7F1D10
+- 400F08
+*/
+
+
+.itemsContainer {
+	background-color: yellow;
+	float: left;
+	width: 300px;
+}
+
+.cartContainer {
+	background-color: yellow;
+	min-height: 200px;
+	margin-left: 300px;
+	overflow: hidden;
+}
+
+.960 {
+	width: 960px;
+	background-color: blue;
+}
+
+h1 {
+	background-color: #E5351D;
+	color: #400F08;
+	font-family: Lobster;
+}
+
+body {
+	background-color: #BF2C18;
+}
+
+li {
+	font-family: lemon;
+}
+
+button {
+	font-family: lemon;
+	background-color: #E5351D;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	margin: 10px;
+}
+
+i {
+	font-family: FontAwesome;
+	color: #400F08;
+	font-size: 38px;
+	margin-left: 10px;
+}
+
+fieldset {
+	clear: both;
+	margin-bottom: 30px;
+	position: fixed;
+	bottom: 0;
+}
+
+img {
+	width: 90px;
+	height: 90px;
+}

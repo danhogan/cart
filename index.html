@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Da Cart</title>
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0-alpha.2/handlebars.min.js"></script>
+	<link rel="stylesheet" href="styles.css">
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Lobster|Lemon' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	
+	<div class="960">
+		<!-- Items -->
+		<div class = 'itemsContainer'>
+			<h1>Items</h1>
+			<ul class="products">
+				<!-- <li>
+					<h2 class="name">Name</h2>
+					<p class="price">Price</p>
+					<p class="description">This is a description</p>
+					<img src="">
+					<button>Add</button>
+				</li> -->
+				<!--<script id="productbar" type="text/x-handlebars-template">
+					<li class="thing">{{product}}
+						<button>Add</button>
+					</li>
+				</script> -->
+			</ul>
+		</div>
+
+		<!-- Cart -->
+		<div class='cartContainer'>
+			<h1>Cart<i class="fa fa-shopping-cart"></i></h1>
+			<button class="byebye">Remove All</button>
+			<ul class="cart"></ul>
+		</div>	
+
+		<!-- Checkout Form -->
+	<!-- 	<fieldset id="checkoutForm">
+			<legend>Checkout</legend>
+			<form action="place_order.php" method="POST">
+				<p>
+					<span>Name:</span>
+					<input type="text" name="name">
+				</p>
+				<p>
+					<span>Credit Card Number:</span>
+					<input type="text" name="ccNum">
+				</p>
+				<p>
+					<input type="hidden" name="cart_data" id="cart_data" value="default">
+					<button type="submit">Place Order</button>
+				</p>
+			</form>
+		</fieldset> -->
+	</div>
+</body>
+<script src="default_products.js"></script>
+<script src="main.js"></script>
+</html>
